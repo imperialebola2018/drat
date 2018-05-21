@@ -16,6 +16,15 @@ License: MIT + file LICENSE
 MD5sum: a774b49dce138bd27a6c863b2ffb5f0c
 NeedsCompilation: no
 
+Package: projections
+Version: 0.1.0
+Depends: R (>= 3.3.0)
+Imports: stats, utils, incidence, distcrete, ggplot2
+Suggests: testthat, vdiffr, roxygen2, knitr, rmarkdown, outbreaks
+License: MIT + file LICENSE
+MD5sum: bb00d9c031c8a0b0a6ceb8bb31d7b31f
+NeedsCompilation: no
+
 Package: vaultr
 Version: 0.0.3
 Imports: R6, httr, jsonlite, prettyunits
