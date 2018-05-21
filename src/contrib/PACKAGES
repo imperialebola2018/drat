@@ -1,3 +1,14 @@
+Package: EpiEstim
+Version: 2.0-0
+Depends: R (>= 2.10)
+Imports: coarseDataTools, stats, graphics, reshape2, ggplot2, plyr,
+        grid, gridExtra, plotly, fitdistrplus, coda, incidence, scales,
+        grDevices
+Suggests: testthat, compare, utils
+License: GPL (>= 2)
+MD5sum: f1c283c8afd27a41915f5aa7bbe899ce
+NeedsCompilation: no
+
 Package: cyphr
 Version: 0.2.0
 Depends: R (>= 3.2.1)
