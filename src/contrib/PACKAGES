@@ -6,3 +6,11 @@ Suggests: knitr, montagu (>= 0.1.2), png, processx, rmarkdown,
 License: MIT + file LICENSE
 MD5sum: a774b49dce138bd27a6c863b2ffb5f0c
 NeedsCompilation: no
+
+Package: vaultr
+Version: 0.0.3
+Imports: R6, httr, jsonlite, prettyunits
+Suggests: cyphr, processx, testthat, withr
+License: MIT + file LICENSE
+MD5sum: a9521530befb238a02abb3f66b4fcfc4
+NeedsCompilation: no
