@@ -1,3 +1,12 @@
+Package: cyphr
+Version: 0.2.0
+Depends: R (>= 3.2.1)
+Imports: getPass, openssl (>= 0.9.9), sodium
+Suggests: knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: e1b45137203274b3b63fe6aeaea4b7f3
+NeedsCompilation: no
+
 Package: orderly
 Version: 0.3.4
 Imports: DBI, R6, RSQLite, digest, ids, jsonlite, optparse, withr, yaml
