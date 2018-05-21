@@ -2,3 +2,7 @@
 vimc/orderly@master
 vimc/vaultr@master
 ropensci/cyphr@master
+
+# Science based packages
+reconhub/projections@release
+annecori/EpiEstim@release
