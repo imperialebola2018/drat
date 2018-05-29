@@ -18,6 +18,14 @@ License: MIT + file LICENSE
 MD5sum: e1b45137203274b3b63fe6aeaea4b7f3
 NeedsCompilation: no
 
+Package: montagu
+Version: 0.2.0
+Imports: R6, getPass, httr, jsonlite, openssl, progress
+Suggests: testthat, withr
+License: MIT + file LICENSE
+MD5sum: 10c9cbdfe5fe1baaf4e82b405028b950
+NeedsCompilation: no
+
 Package: orderly
 Version: 0.4.3
 Imports: DBI, R6, RSQLite, digest, ids, jsonlite, optparse, withr, yaml
