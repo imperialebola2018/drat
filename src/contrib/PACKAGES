@@ -36,12 +36,12 @@ MD5sum: 059ff877d429a41df133a7e3f9d5c2ba
 NeedsCompilation: no
 
 Package: projections
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.3.0)
 Imports: stats, utils, incidence, distcrete, ggplot2
 Suggests: testthat, vdiffr, roxygen2, knitr, rmarkdown, outbreaks
 License: MIT + file LICENSE
-MD5sum: bb00d9c031c8a0b0a6ceb8bb31d7b31f
+MD5sum: d9b0c99f8668ecfea755e3069d4cdee9
 NeedsCompilation: no
 
 Package: vaultr
