@@ -1,6 +1,7 @@
 # Currently nothing is stable
 vimc/orderly@master
 vimc/vaultr@master
+vimc/montagu-r@master
 ropensci/cyphr@master
 
 # Science based packages
