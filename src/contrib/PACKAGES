@@ -10,12 +10,11 @@ MD5sum: f1c283c8afd27a41915f5aa7bbe899ce
 NeedsCompilation: no
 
 Package: cyphr
-Version: 0.2.0
-Depends: R (>= 3.2.1)
+Version: 1.0.1
 Imports: getPass, openssl (>= 0.9.9), sodium
 Suggests: knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: e1b45137203274b3b63fe6aeaea4b7f3
+MD5sum: 0f49b60970dbb406b2d4ada281c53528
 NeedsCompilation: no
 
 Package: montagu
