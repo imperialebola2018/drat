@@ -29,12 +29,13 @@ MD5sum: 06572c6ebc915fad97ba7750ca3de4a6
 NeedsCompilation: no
 
 Package: orderly
-Version: 0.7.7
-Imports: DBI, R6, RSQLite, digest, ids, jsonlite, optparse, withr, yaml
-Suggests: httr, knitr, mockery, processx, rmarkdown, testthat, vaultr
-        (>= 1.0.0)
+Version: 1.0.2
+Imports: DBI, R6, RSQLite, digest, docopt, fs (>= 1.2.7), ids, withr,
+        yaml, zip (>= 2.0.0)
+Suggests: httr, jsonlite, knitr, mockery, processx, rmarkdown,
+        testthat, vaultr (>= 1.0.0)
 License: MIT + file LICENSE
-MD5sum: a99ff7c3f5160b4114273092569f47fb
+MD5sum: 48ceea71aa08efa8b65385adb7756a31
 NeedsCompilation: no
 
 Package: projections
