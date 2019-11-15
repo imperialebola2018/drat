@@ -2,6 +2,7 @@
 vimc/orderly@master
 vimc/vaultr@master
 vimc/montagu-r@master
+vimc/orderlyweb
 ropensci/cyphr@master
 
 # Science based packages
