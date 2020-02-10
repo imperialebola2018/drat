@@ -56,9 +56,9 @@ MD5sum: eb00139717d361ade21a3b3eb862b374
 NeedsCompilation: no
 
 Package: vaultr
-Version: 1.0.2
+Version: 1.0.3
 Imports: R6, getPass, httr, jsonlite
 Suggests: knitr, mockery, processx, rmarkdown, testthat, withr
 License: MIT + file LICENSE
-MD5sum: 1dd11eddb2cc4156599c1b34cd50a094
+MD5sum: d65b6be596cf0b70f3abcf1b0bb8b66c
 NeedsCompilation: no
